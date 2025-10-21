@@ -1,0 +1,22 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Blank
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Blank</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <div id="container">
+    <h1>Hallo, wir haben derzeit {{data.currentQuiz.questions.length}} Frage(n)!</h1>
+    <ion-button color="danger" (click)="showList()">Fragen anzeigen</ion-button>
+    <ion-button color="primary" (click)="showQuiz()">Quiz anzeigen</ion-button>
+    <ion-button expand="block" color="primary" (click)="loadQuiz()">Quiz laden</ion-button>
+  </div>
+</ion-content>

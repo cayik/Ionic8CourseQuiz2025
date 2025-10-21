@@ -1,0 +1,96 @@
+{
+    "id": "quiz-001",
+    "quizName": "JSON-loaded",
+    "questions": [
+        {
+            "id": "1a2b3c4d-0001-4e28-a3d0-e5a3fa46e5a1",
+            "title": "Which planet is known as the Red Planet?",
+            "a1": "Earth",
+            "a2": "Mars",
+            "a3": "Jupiter",
+            "a4": "Venus",
+            "correct": 2
+        },
+        {
+            "id": "1a2b3c4d-0002-4e28-a3d0-e5a3fa46e5a1",
+            "title": "What is the largest ocean on Earth?",
+            "a1": "Atlantic Ocean",
+            "a2": "Indian Ocean",
+            "a3": "Arctic Ocean",
+            "a4": "Pacific Ocean",
+            "correct": 4
+        },
+        {
+            "id": "1a2b3c4d-0003-4e28-a3d0-e5a3fa46e5a1",
+            "title": "Who wrote 'Romeo and Juliet'?",
+            "a1": "William Shakespeare",
+            "a2": "Charles Dickens",
+            "a3": "Leo Tolstoy",
+            "a4": "Mark Twain",
+            "correct": 1
+        },
+        {
+            "id": "1a2b3c4d-0004-4e28-a3d0-e5a3fa46e5a1",
+            "title": "Which element has the chemical symbol 'O'?",
+            "a1": "Gold",
+            "a2": "Oxygen",
+            "a3": "Silver",
+            "a4": "Iron",
+            "correct": 2
+        },
+        {
+            "id": "1a2b3c4d-0005-4e28-a3d0-e5a3fa46e5a1",
+            "title": "What is the square root of 144?",
+            "a1": "10",
+            "a2": "11",
+            "a3": "12",
+            "a4": "14",
+            "correct": 3
+        },
+        {
+            "id": "1a2b3c4d-0006-4e28-a3d0-e5a3fa46e5a1",
+            "title": "Who painted the Mona Lisa?",
+            "a1": "Vincent van Gogh",
+            "a2": "Pablo Picasso",
+            "a3": "Leonardo da Vinci",
+            "a4": "Michelangelo",
+            "correct": 3
+        },
+        {
+            "id": "1a2b3c4d-0007-4e28-a3d0-e5a3fa46e5a1",
+            "title": "Which gas do plants absorb from the atmosphere?",
+            "a1": "Oxygen",
+            "a2": "Carbon Dioxide",
+            "a3": "Nitrogen",
+            "a4": "Hydrogen",
+            "correct": 2
+        },
+        {
+            "id": "1a2b3c4d-0008-4e28-a3d0-e5a3fa46e5a1",
+            "title": "What is the capital of Japan?",
+            "a1": "Tokyo",
+            "a2": "Kyoto",
+            "a3": "Osaka",
+            "a4": "Hiroshima",
+            "correct": 1
+        },
+        {
+            "id": "1a2b3c4d-0009-4e28-a3d0-e5a3fa46e5a1",
+            "title": "Which planet is closest to the Sun?",
+            "a1": "Venus",
+            "a2": "Mercury",
+            "a3": "Earth",
+            "a4": "Mars",
+            "correct": 2
+        },
+        {
+            "id": "1a2b3c4d-0010-4e28-a3d0-e5a3fa46e5a1",
+            "title": "Which language is primarily spoken in Brazil?",
+            "a1": "Spanish",
+            "a2": "Portuguese",
+            "a3": "English",
+            "a4": "French",
+            "correct": 2
+        }
+    ]
+}
