@@ -24,7 +24,9 @@
       </ion-card-content>
     </ion-card>
 
-    <div class="meta">Frage {{ pointer + 1 }} / {{ mixarray.length }}</div>
+    <div class="meta">
+      Frage {{ (pointer + 1) > mixarray.length ? mixarray.length : (pointer + 1) }} / {{ mixarray.length }}
+    </div>
   </ng-container>
 
   <ng-template #noData>

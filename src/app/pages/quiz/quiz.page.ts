@@ -117,7 +117,7 @@ export class QuizPage implements OnInit {
     if (this.pointer >= this.mixarray.length) {
       const alert = await this.alertCtrl.create({
         header: 'Quiz beendet',
-        message: `Dein Score: <strong>${this.score}</strong> / ${this.mixarray.length}`,
+        message: `Dein Score: ${this.score} / ${this.mixarray.length}`,
         buttons: ['OK'], backdropDismiss: false
       });
       await alert.present();
